@@ -365,6 +365,9 @@ nav li a:hover {
     nav div {
         padding: 7px 15px !important;
     }
+    nav div img {
+        height: 60px !important;
+    }
 
     nav .btn-danger {
         display: none;
